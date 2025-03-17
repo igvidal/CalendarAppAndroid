@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CalendarApp</string>
+
+    <string name="lunes">LUN</string>
+    <string name="martes">MAR</string>
+    <string name="miercoles">MIÉ</string>
+    <string name="jueves">JUE</string>
+    <string name="viernes">VIE</string>
+    <string name="sabado">SÁB</string>
+    <string name="domingo">DOM</string>
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+</resources>
